@@ -5,3 +5,9 @@
 
 I enjoy solving challenging problems with algorithms, and I’m passionate about using computer science to make optimization easier, smarter, and more impactful.
 
+<details>
+<summary align="center"><samp>more about me</samp></summary>    
+  <p align="center">
+    I love 🍕 Domino’s, 🍔 McDonald’s, 🚴 cycling, 🏃 running, 🎣 fishing — and yes, I’m deeply in love with my ⌨️ mech keyboards.
+</p>
+</details>
